@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(255, 179, 80);}
+h1 {color: deeppink;}
+
+p1{color:azure ;
+    font-size: 36px;}
+
+img{border-style: groove;
+    color: darkred, green ;
+border-width: 10px;}
+a{color: azure;
+    font-size: 36px;}
